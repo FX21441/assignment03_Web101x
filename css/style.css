@@ -132,6 +132,10 @@ section > .container {
   margin-left: 10px;
 }
 
+.form-control {
+  width: 80%;
+}
+
 #job-info {
   /* căn chỉnh các mục trong job-info */
   width: 1179px;
