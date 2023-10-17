@@ -67,7 +67,7 @@
     /* căn chỉnh mục job-info*/
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(3, 1fr);
+    grid-template-rows: auto;
     padding-left: 10px;
     justify-content: center;
     gap: 10px;
